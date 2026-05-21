@@ -34,7 +34,7 @@ Most of my work lives at the intersection of **clean interfaces**, **practical c
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Grd45bisa&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d0d0d&title_color=d6a86c&text_color=cccccc&icon_color=9caf88&ring_color=d6a86c&hide_title=false" width="100%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Grd45bisa&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d0d0d&title_color=d6a86c&text_color=cccccc&icon_color=9caf88&ring_color=d6a86c&hide_title=false" width="100%" alt="GitHub Stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Grd45bisa&hide_border=true&background=0d0d0d&ring=d6a86c&fire=d6a86c&currStreakLabel=d6a86c&sideLabels=888880&dates=888880&sideNums=cccccc&currStreakNum=cccccc" width="100%" alt="GitHub Streak" />
 
@@ -116,7 +116,7 @@ Queue management system to make service flows smoother and less chaotic.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grd45bisa&layout=donut-vertical&hide_border=true&bg_color=0d0d0d&title_color=d6a86c&text_color=cccccc&langs_count=6" alt="Top Languages" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Grd45bisa&layout=donut-vertical&hide_border=true&bg_color=0d0d0d&title_color=d6a86c&text_color=cccccc&langs_count=6" alt="Top Languages" />
 
 </div>
 
