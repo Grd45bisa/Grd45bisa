@@ -1,94 +1,141 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:101010,100:1f241b&text=Fahmi%20Sidiq&fontColor=ededed&fontSize=48&fontAlign=50&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descColor=b8b8b8&descSize=16&descAlign=50&descAlignY=62">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:faf7f0,100:e8eadf&text=Fahmi%20Sidiq&fontColor=1f1f1f&fontSize=48&fontAlign=50&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descColor=626262&descSize=16&descAlign=50&descAlignY=62">
-  <img alt="Fahmi Sidiq - Full-Stack Developer and AI/ML Enthusiast" src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:101010,100:1f241b&text=Fahmi%20Sidiq&fontColor=ededed&fontSize=48&fontAlign=50&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descColor=b8b8b8&descSize=16&descAlign=50&descAlignY=62">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./133767723.png">
-  <source media="(prefers-color-scheme: light)" srcset="./133767723.png">
-  <img src="./133767723.png" width="118" alt="Paper boat illustration" />
-</picture>
-
-<p>
-  Building useful web, mobile, and AI-powered products with a calm interface, practical code, and a paper-boat kind of curiosity.
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Grd45bisa&style=flat-square&color=9caf88&label=profile+views" alt="Profile views" />
-  <img src="https://img.shields.io/badge/focus-full--stack%20%2B%20AI-9caf88?style=flat-square&labelColor=1f1f1f" alt="Focus badge" />
-  <img src="https://img.shields.io/badge/from-Indonesia-d6a86c?style=flat-square&labelColor=1f1f1f" alt="Indonesia badge" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,50:1a1a14,100:0d0d0d&text=Fahmi%20Sidiq&fontColor=d6a86c&fontSize=52&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Indonesia&descColor=888880&descSize=14&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" alt="Fahmi Sidiq" />
 
 </div>
 
----
+<br>
 
-### About me
+<table>
+<tr>
+<td width="55%" valign="top">
 
-I like turning messy ideas into small, usable systems. Most of my work sits around full-stack apps, mobile experiences, face recognition, finance tools, and practical automation.
+### ☽ &nbsp;about me
 
-- Currently exploring better ways to combine **AI/ML** with real-world apps.
-- Comfortable moving between **frontend, backend, mobile, and model integration**.
-- I care about interfaces that feel simple, readable, and dependable.
-- Favorite kind of project: something people can actually use.
-
-### Tech stack
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-2f3329?style=for-the-badge&logo=typescript&logoColor=d6a86c" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-2f3329?style=for-the-badge&logo=javascript&logoColor=d6a86c" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-2f3329?style=for-the-badge&logo=python&logoColor=d6a86c" alt="Python" />
-  <img src="https://img.shields.io/badge/Dart-2f3329?style=for-the-badge&logo=dart&logoColor=d6a86c" alt="Dart" />
-  <img src="https://img.shields.io/badge/React-2f3329?style=for-the-badge&logo=react&logoColor=9caf88" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-2f3329?style=for-the-badge&logo=nextdotjs&logoColor=ededed" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Flask-2f3329?style=for-the-badge&logo=flask&logoColor=ededed" alt="Flask" />
-  <img src="https://img.shields.io/badge/TensorFlow-2f3329?style=for-the-badge&logo=tensorflow&logoColor=d6a86c" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Git-2f3329?style=for-the-badge&logo=git&logoColor=d6a86c" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2f3329?style=for-the-badge&logo=docker&logoColor=9caf88" alt="Docker" />
-</p>
-
-### Featured work
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [neural-face-attendance](https://github.com/Grd45bisa/neural-face-attendance) | Face recognition attendance system using deep learning. | Python, AI/ML |
-| [Mobile-apps-face-recognizer](https://github.com/Grd45bisa/Mobile-apps-face-recognizer) | Mobile face recognition experience. | Dart, Mobile |
-| [dompet-teratai](https://github.com/Grd45bisa/dompet-teratai) | Finance and expense tracking app. | TypeScript |
-| [Kitaundang](https://github.com/Grd45bisa/Kitaundang) | Digital invitation and event-oriented app. | JavaScript |
-| [digital-queue-solution](https://github.com/Grd45bisa/digital-queue-solution) | Queue management system for smoother service flow. | Web app |
-
-### GitHub activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Grd45bisa&show_icons=true&hide_border=true&rank_icon=github&bg_color=111111&title_color=d6a86c&text_color=ededed&icon_color=9caf88">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Grd45bisa&show_icons=true&hide_border=true&rank_icon=github&bg_color=faf7f0&title_color=6f7d5f&text_color=1f1f1f&icon_color=b08968">
-  <img height="165" alt="Fahmi's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Grd45bisa&show_icons=true&hide_border=true&rank_icon=github&bg_color=111111&title_color=d6a86c&text_color=ededed&icon_color=9caf88">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Grd45bisa&layout=compact&hide_border=true&bg_color=111111&title_color=d6a86c&text_color=ededed">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Grd45bisa&layout=compact&hide_border=true&bg_color=faf7f0&title_color=6f7d5f&text_color=1f1f1f">
-  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grd45bisa&layout=compact&hide_border=true&bg_color=111111&title_color=d6a86c&text_color=ededed">
-</picture>
-
-</div>
-
-### Little notes
-
-```txt
-mode        : build first, polish after
-interest    : AI products, useful systems, clean interfaces
-currently   : improving full-stack craft and ML implementation
-vibe        : paper boat, matte black, warm light mode
+```yaml
+name     : Fahmi Sidiq
+base     : Indonesia 🇮🇩
+focus    : Full-Stack · AI/ML · Mobile
+mode     : build first, polish after
+vibe     : paper boat, matte black,
+           warm light mode
 ```
 
+I turn messy ideas into small, usable systems.  
+Most of my work lives at the intersection of **clean interfaces**, **practical code**, and **AI-powered features** that people can actually use.
+
+- 🔭 &nbsp;Exploring better ways to combine **AI/ML** with real-world apps  
+- 🌐 &nbsp;Comfortable across **frontend, backend, mobile, and model integration**  
+- 💡 &nbsp;I care about systems that feel simple, readable, and dependable  
+- ⛵ &nbsp;Favorite kind of project: something people can *actually* use
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Grd45bisa&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d0d0d&title_color=d6a86c&text_color=cccccc&icon_color=9caf88&ring_color=d6a86c&hide_title=false" width="100%" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Grd45bisa&hide_border=true&background=0d0d0d&ring=d6a86c&fire=d6a86c&currStreakLabel=d6a86c&sideLabels=888880&dates=888880&sideNums=cccccc&currStreakNum=cccccc" width="100%" alt="GitHub Streak" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### ⬡ &nbsp;tech stack
+
+<div align="left">
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=d6a86c)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=d6a86c)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=d6a86c)
+![Dart](https://img.shields.io/badge/Dart-0d0d0d?style=flat-square&logo=dart&logoColor=9caf88)
+
+**Frameworks & Tools**
+
+![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=9caf88)
+![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=nextdotjs&logoColor=eeeeee)
+![Flutter](https://img.shields.io/badge/Flutter-0d0d0d?style=flat-square&logo=flutter&logoColor=9caf88)
+![Flask](https://img.shields.io/badge/Flask-0d0d0d?style=flat-square&logo=flask&logoColor=eeeeee)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=flat-square&logo=tensorflow&logoColor=d6a86c)
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=flat-square&logo=docker&logoColor=9caf88)
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=d6a86c)
+
+</div>
+
+---
+
+### ◈ &nbsp;featured work
+
+> A small collection of things I've built — practical, purposeful, a little personal.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**⬡ &nbsp;[neural-face-attendance](https://github.com/Grd45bisa/neural-face-attendance)**  
+Face recognition attendance system powered by deep learning. No ID cards, no queues — just a face.  
+`Python` `TensorFlow` `AI/ML`
+
+---
+
+**⬡ &nbsp;[Mobile-apps-face-recognizer](https://github.com/Grd45bisa/Mobile-apps-face-recognizer)**  
+Bringing face recognition to mobile. Lightweight, real-world-ready.  
+`Dart` `Flutter` `Mobile`
+
+---
+
+**⬡ &nbsp;[dompet-teratai](https://github.com/Grd45bisa/dompet-teratai)**  
+Personal finance and expense tracker. Built to make budgeting less painful.  
+`TypeScript` `Next.js`
+
+</td>
+<td width="50%" valign="top">
+
+**⬡ &nbsp;[Kitaundang](https://github.com/Grd45bisa/Kitaundang)**  
+Digital invitation platform for events — elegant, shareable, no printing needed.  
+`JavaScript` `Web`
+
+---
+
+**⬡ &nbsp;[digital-queue-solution](https://github.com/Grd45bisa/digital-queue-solution)**  
+Queue management system to make service flows smoother and less chaotic.  
+`Web App`
+
+</td>
+</tr>
+</table>
+
+---
+
+### ∿ &nbsp;language breakdown
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grd45bisa&layout=donut-vertical&hide_border=true&bg_color=0d0d0d&title_color=d6a86c&text_color=cccccc&langs_count=6" alt="Top Languages" />
+
+</div>
+
+---
+
+### ↯ &nbsp;activity graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Grd45bisa&bg_color=0d0d0d&color=9caf88&line=d6a86c&point=d6a86c&area=true&area_color=d6a86c&hide_border=true&radius=4" width="100%" alt="Activity Graph" />
+
 ---
 
 <div align="center">
-  <sub>Thanks for visiting. This profile is still growing, just like the projects inside it.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:0d0d0d,50:1a1a14,100:0d0d0d&reversal=false" width="100%" />
+
+<sub>
+  <code>still building · still learning · still floating</code>  
+  &nbsp;·&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Grd45bisa&style=flat-square&color=9caf88&label=visitors" alt="Profile views" />
+</sub>
+
 </div>
