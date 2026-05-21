@@ -6,8 +6,10 @@
   <img alt="Fahmi Sidiq - Full-Stack Developer and AI/ML Enthusiast" src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:101010,100:1f241b&text=Fahmi%20Sidiq&fontColor=ededed&fontSize=48&fontAlign=50&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descColor=b8b8b8&descSize=16&descAlign=50&descAlignY=62">
 </picture>
 
+<img src="./133767723.png" width="118" alt="Paper boat illustration" />
+
 <p>
-  Building useful web, mobile, and AI-powered products with a calm interface, practical code, and a little bit of character.
+  Building useful web, mobile, and AI-powered products with a calm interface, practical code, and a paper-boat kind of curiosity.
 </p>
 
 <p>
@@ -78,7 +80,7 @@ I like turning messy ideas into small, usable systems. Most of my work sits arou
 mode        : build first, polish after
 interest    : AI products, useful systems, clean interfaces
 currently   : improving full-stack craft and ML implementation
-vibe        : matte black on dark mode, warm paper on light mode
+vibe        : paper boat, matte black, warm light mode
 ```
 
 ---
