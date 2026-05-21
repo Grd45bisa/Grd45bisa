@@ -115,7 +115,7 @@ Queue management system to make service flows smoother and less chaotic.
 <sub>
   <code>still building · still learning · still floating</code>  
   &nbsp;·&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Grd45bisa&style=flat-square&color=9caf88&label=visitors" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Grd45bisa&style=flat-square&color=d6a86c&label=visitors" alt="Profile views" />
 </sub>
 
 </div>
