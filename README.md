@@ -6,7 +6,11 @@
   <img alt="Fahmi Sidiq - Full-Stack Developer and AI/ML Enthusiast" src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:101010,100:1f241b&text=Fahmi%20Sidiq&fontColor=ededed&fontSize=48&fontAlign=50&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descColor=b8b8b8&descSize=16&descAlign=50&descAlignY=62">
 </picture>
 
-<img src="./133767723.png" width="118" alt="Paper boat illustration" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./133767723.png">
+  <source media="(prefers-color-scheme: light)" srcset="./133767723.png">
+  <img src="./133767723.png" width="118" alt="Paper boat illustration" />
+</picture>
 
 <p>
   Building useful web, mobile, and AI-powered products with a calm interface, practical code, and a paper-boat kind of curiosity.
